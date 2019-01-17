@@ -19,9 +19,9 @@ class App extends Component {
         </div>
         <Container>
           <Row>
-            <Col xs="6" sm="4">
+            <Col xs="12" sm="4">
               <Card>
-                <CardImg top width="30%" src="https://placeholdit.imgix.net/~text?txtsize=33&txt=318%C3%97180&w=318&h=180" alt="Card image cap" />
+                <CardImg top width="100%" src="https://placeholdit.imgix.net/~text?txtsize=33&txt=318%C3%97180&w=318&h=180" alt="Card image cap" />
                 <CardBody>
                   <CardTitle>Card title</CardTitle>
                   <CardSubtitle>Card subtitle</CardSubtitle>
@@ -30,9 +30,9 @@ class App extends Component {
                 </CardBody>
               </Card>
             </Col>
-            <Col xs="6" sm="4">
+            <Col xs="12" sm="4">
               <Card>
-                <CardImg top width="30%" src="https://placeholdit.imgix.net/~text?txtsize=33&txt=318%C3%97180&w=318&h=180" alt="Card image cap" />
+                <CardImg top width="100%" src="https://placeholdit.imgix.net/~text?txtsize=33&txt=318%C3%97180&w=318&h=180" alt="Card image cap" />
                 <CardBody>
                   <CardTitle>Card title</CardTitle>
                   <CardSubtitle>Card subtitle</CardSubtitle>
@@ -41,9 +41,9 @@ class App extends Component {
                 </CardBody>
               </Card>
             </Col>
-            <Col xs="6" sm="4">
+            <Col xs="12" sm="4">
               <Card>
-                <CardImg top width="30%" src="https://placeholdit.imgix.net/~text?txtsize=33&txt=318%C3%97180&w=318&h=180" alt="Card image cap" />
+                <CardImg top width="100%" src="https://placeholdit.imgix.net/~text?txtsize=33&txt=318%C3%97180&w=318&h=180" alt="Card image cap" />
                 <CardBody>
                   <CardTitle>Card title</CardTitle>
                   <CardSubtitle>Card subtitle</CardSubtitle>
@@ -53,6 +53,7 @@ class App extends Component {
               </Card>
             </Col>
           </Row>
+          
         </Container>
 
       </div>
