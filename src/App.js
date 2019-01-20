@@ -53,7 +53,20 @@ class App extends Component {
               </Card>
             </Col>
           </Row>
-          
+
+          <Row>
+            <Col xs="12" >
+              <div className="main">
+                <p>Putting some test here to see what happens.  This will be a paragraph to display some information.  It will be long to see how
+                it looks on the page.  And needs some extra text here to wrap.
+              </p>
+                <p>Then there is this other paragraph.  This will be a paragraph to display some information.  It will be long to see how
+                it looks on the page.
+              </p>
+              </div>
+            </Col>
+          </Row>
+
         </Container>
 
       </div>
